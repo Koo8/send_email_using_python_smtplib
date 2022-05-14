@@ -1,0 +1,6 @@
+Dear Friends:
+This is the email for testing purpose.
+Please download the file at your convient time.
+
+Regards,
+python email.message module
